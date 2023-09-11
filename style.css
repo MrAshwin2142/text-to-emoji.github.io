@@ -141,9 +141,11 @@ button img {
   display: none;
   margin-top: 40px;
 }
-.copyimg>img{
-  width: 10px;
-  
+.footer{
+  font-size: large;
+  width: 100%;
+  margin: 20px;
+  text-align: center;
 }
 @media source and (min-width:600px){
   #result{

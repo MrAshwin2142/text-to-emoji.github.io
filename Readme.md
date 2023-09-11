@@ -1,7 +1,7 @@
 # Text to Emoji Encryption and Decryption
 
 
-**Live Demo:** [https://ashwin.com](https://ashwin.com)
+**Live Demo:** [https://mrashwin2142.github.io/text-to-emoji.github.io/](https://mrashwin2142.github.io/text-to-emoji.github.io/)
 
 ## Table of Contents
 
@@ -23,7 +23,7 @@ This web application allows you to encrypt text into emoji representations and d
 
 ## Usage
 
-1. Visit the [live demo](https://ashwin.com) to access the application.
+1. Visit the [live demo](https://mrashwin2142.github.io/text-to-emoji.github.io/) to access the application.
 2. Choose between "Encrypt Text" or "Decrypt Emojis" by clicking the corresponding button.
 3. If you select "Encrypt Text":
    - Type your message in the text area.
